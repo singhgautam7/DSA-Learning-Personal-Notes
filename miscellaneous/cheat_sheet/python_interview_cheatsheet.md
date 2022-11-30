@@ -1,14 +1,14 @@
 ﻿# Table of contents
-1. [Math]
-2. [Arrays]
-3. [Strings]
-4. [Queues]
-5. [HashSets]
-6. [HashMaps]
-7. [Tuples]
-8. [Heaps]
-9. [Functions]
-10. [Classes]
+1. [Math](/miscellaneous/cheat_sheet/python_interview_cheatsheet.md/#math)
+2. [Arrays](/miscellaneous/cheat_sheet/python_interview_cheatsheet.md/#arrays)
+3. [Strings](/miscellaneous/cheat_sheet/python_interview_cheatsheet.md/#strings)
+4. [Queues](/miscellaneous/cheat_sheet/python_interview_cheatsheet.md/#queues)
+5. [HashSets](/miscellaneous/cheat_sheet/python_interview_cheatsheet.md/#hashsets)
+6. [HashMaps](/miscellaneous/cheat_sheet/python_interview_cheatsheet.md/#hashmaps)
+7. [Tuples](/miscellaneous/cheat_sheet/python_interview_cheatsheet.md/#tuples)
+8. [Heaps](/miscellaneous/cheat_sheet/python_interview_cheatsheet.md/#heaps)
+9. [Functions](/miscellaneous/cheat_sheet/python_interview_cheatsheet.md/#functions)
+10. [Classes](/miscellaneous/cheat_sheet/python_interview_cheatsheet.md/#classes)
 
 # Math
 ```python
