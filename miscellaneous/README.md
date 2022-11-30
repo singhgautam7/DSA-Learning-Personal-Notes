@@ -1,0 +1,1 @@
+﻿Mostly some basic questions not related to any topic in the other folders.
