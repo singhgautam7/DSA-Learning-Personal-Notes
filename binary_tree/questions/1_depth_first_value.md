@@ -70,12 +70,6 @@ depth_first_values(None)
 ## Solution
 
 ```python
-# class Node:
-#   def __init__(self, val):
-#     self.val = val
-#     self.left = None
-#     self.right = None
-
 def depth_first_values(root):
     if root is None:
         return []
@@ -92,9 +86,9 @@ def depth_first_values(root):
 
         # Check the right child first to add to stack so that left is popped first
         if current.right is not None:
-        stack.append(current.right)
+            stack.append(current.right)
         if current.left is not None:
-        stack.append(current.left)
+            stack.append(current.left)
 
     return values
 ```
