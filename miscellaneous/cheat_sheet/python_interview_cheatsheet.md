@@ -333,10 +333,6 @@ for key in myMap:
 >>> "alice" 90
 >>> "bob" 70
 
-# Sorting dictionary by value
-dict(sorted(myMap.items(), key=lambda x: x[1]), reverse=False)
->>> { "bob": 70, "alice": 90 }
-
 for val in myMap.values():
     print(val)
 >>> 90
@@ -346,6 +342,11 @@ for key, val in myMap.items():
     print(key, val)
 >>> "alice" 90
 >>> "bob" 70
+
+# Sorting dictionary by value
+dict(sorted(myMap.items(), key=lambda x: x[1]), reverse=False)
+>>> { "bob": 70, "alice": 90 }
+
 ```
 
 # Tuples
