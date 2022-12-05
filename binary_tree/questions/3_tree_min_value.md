@@ -1,6 +1,6 @@
 ﻿# Tree Min Value
 Write a function, tree_min_value, that takes in the root of a binary tree that contains number values. The function should return the minimum value within the tree.
-You may assume that the input tree is non-empty.. You have the following Node class
+You may assume that the input tree is non-empty. You have the following Node class
 ```python
 class Node:
   def __init__(self, val):
